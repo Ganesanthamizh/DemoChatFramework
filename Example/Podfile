@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DemoChatFramework_Example' do
+  pod 'DemoChatFramework', :path => '../'
+
+  target 'DemoChatFramework_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
