@@ -2,6 +2,7 @@ use_frameworks!
 
 target 'DemoChatFramework_Example' do
   pod 'DemoChatFramework', :path => '../'
+  pod 'Alamofire'
 
   target 'DemoChatFramework_Tests' do
     inherit! :search_paths
