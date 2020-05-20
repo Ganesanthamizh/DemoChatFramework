@@ -1,0 +1,6 @@
+framework module DemoChatFramework {
+  umbrella header "DemoChatFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

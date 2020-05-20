@@ -1,0 +1,16 @@
+PODS:
+  - DemoChatFramework (0.1.0)
+
+DEPENDENCIES:
+  - DemoChatFramework (from `../`)
+
+EXTERNAL SOURCES:
+  DemoChatFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DemoChatFramework: 87c74d98148f683078850a099079e6ac181bc521
+
+PODFILE CHECKSUM: aaf66a32d7c8ad4d465fc3e4fc446ffe2de9d96e
+
+COCOAPODS: 1.8.4

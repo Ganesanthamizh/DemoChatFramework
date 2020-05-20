@@ -1,0 +1,22 @@
+{
+  "name": "DemoChatFramework",
+  "version": "0.1.0",
+  "summary": "A short description of DemoChatFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Ganesanthamizh/DemoChatFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ganesanthamizh": "erganeshtamizh@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Ganesanthamizh/DemoChatFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DemoChatFramework/Classes/**/*"
+}
