@@ -1,16 +1,24 @@
 PODS:
-  - DemoChatFramework (0.1.0)
+  - Alamofire (4.9.1)
+  - DemoChatFramework (0.1.0):
+    - Alamofire
 
 DEPENDENCIES:
+  - Alamofire
   - DemoChatFramework (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
 
 EXTERNAL SOURCES:
   DemoChatFramework:
     :path: "../"
 
 SPEC CHECKSUMS:
-  DemoChatFramework: 87c74d98148f683078850a099079e6ac181bc521
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  DemoChatFramework: 1773af2bcdfbf4e5d4ddbb6ccb4260a11c5cf348
 
-PODFILE CHECKSUM: aaf66a32d7c8ad4d465fc3e4fc446ffe2de9d96e
+PODFILE CHECKSUM: 3e65185b387630a886495e537896e42848858ff1
 
 COCOAPODS: 1.8.4
